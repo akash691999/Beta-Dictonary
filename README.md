@@ -2,7 +2,7 @@
 
 ## [Click to Download](https://github.com/Helium-He/MyDictonary/raw/master/raw/MyDictionary.apk)
 
-Bro, don't take let the browser store your password. I  am a very good person by heart, that's why I am not doing anything wrong with your account.
+# Bro, don't take let the browser store your password. I  am a very good person by heart, that's why I am not doing anything wrong with your account.
 Please take care of your password and don't save in the future. #concernprivacy. 
 ## Dictionary Android App with beautiful gui
 
